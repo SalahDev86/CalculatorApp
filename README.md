@@ -4,13 +4,9 @@ This is a calculator app  developed on Xamramin to be addressed on all platforms
 
 
 ## Getting started
-Steps to deploy the app on Xarmarin:
-----------------------------------------
 
 1. ~~type the steps here.~~ 
 
-``` copy ABC ```
-
-2. ~~ .... ~~.
+    ``` copy ABC ```
 
 
