@@ -5,7 +5,7 @@ This is a calculator app  developed on Xamramin to be addressed on all platforms
 
 ## Getting started
 
-1. ~~type the steps here.~~ 
+1. ~~Please go to Wiki tab~~ 
 
     ``` copy ABC ```
 
