@@ -4,7 +4,8 @@
 
 ### Steps to deploy the app on Xarmarin:
 ----------------------------------------
-1. ```  ~~ type the steps here ~~ ```
+1. ~~ type the steps here ~~ 
+     ``` copy ABC ```
 2. ~~ .... ~~.
 
 
